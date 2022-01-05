@@ -1,0 +1,20 @@
+
+body {
+    font-family: "Open Sans", sans-serif; }
+  
+  h1,
+  h2,
+  h3 {
+    font-family: "Lobster", cursive; 
+    align-items: center;
+}
+  
+  h2 {
+    color: #3046c5; }
+  
+  header h2 {
+    color: #cec8ff; }
+
+  button{
+      color: rgb(24, 27, 197);
+  }
